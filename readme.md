@@ -1,4 +1,6 @@
-# russross/blackfriday [![explain]][source] [![translate-svg]][translate-list]
+# russross/blackfriday [![translate-svg]][translate-list]
+
+<!-- [![explain]][source]  -->
 
 <!-- [![size-img]][size] -->
 
