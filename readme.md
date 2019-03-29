@@ -23,10 +23,9 @@
 <!-- repo = 'russross/blackfriday' -->
 <!-- commit = '05f3235734ad95d0016f6a23902f06461fcf567a' -->
 <!-- time = '2018-09-17' -->
-
-| 翻译的原文 | 与日期        | 最新更新 | 更多                       |
-| ---------- | ------------- | -------- | -------------------------- |
-| [commit]   | ⏰ 2018-09-17 | ![last]  | [中文翻译][translate-list] |
+翻译的原文 | 与日期 | 最新更新 | 更多
+---|---|---|---
+[commit] | ⏰ 2018-09-17 | ![last] | [中文翻译][translate-list]
 
 [last]: https://img.shields.io/github/last-commit/russross/blackfriday.svg
 [commit]: https://github.com/russross/blackfriday/tree/05f3235734ad95d0016f6a23902f06461fcf567a
@@ -39,7 +38,7 @@
 
 ## 生活
 
-[help me live , live need money 💰](https://github.com/chinanf-boy/live-need-money)
+[If help, **buy** me coffee —— 营养跟不上了，给我来瓶营养快线吧! 💰](https://github.com/chinanf-boy/live-need-money)
 
 ---
 
